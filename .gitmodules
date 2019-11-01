@@ -1,3 +1,6 @@
 [submodule "vendor_bills"]
 	path = vendor_bills
 	url = git@github.com:William954/vendor_bills.git
+[submodule "product_kit"]
+	path = product_kit
+	url = git@github.com:William954/product_kit.git
