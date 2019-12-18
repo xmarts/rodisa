@@ -4,3 +4,6 @@
 [submodule "addenda_rodisa"]
 	path = addenda_rodisa
 	url = git@gitlab.com:xmarts/xmarts-apps/addenda_rodisa.git
+[submodule "amount_to_text"]
+	path = amount_to_text
+	url = https://github.com/xmarts/amount_to_text.git
