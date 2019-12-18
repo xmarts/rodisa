@@ -1,3 +1,6 @@
 [submodule "vendor_bills"]
 	path = vendor_bills
 	url = git@github.com:William954/vendor_bills.git
+[submodule "addenda_rodisa"]
+	path = addenda_rodisa
+	url = git@gitlab.com:xmarts/xmarts-apps/addenda_rodisa.git
