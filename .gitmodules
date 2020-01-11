@@ -10,3 +10,6 @@
 [submodule "remove_invoice_cfdi"]
 	path = remove_invoice_cfdi
 	url = git@gitlab.com:xmarts/xmarts-apps/remove_invoice_cfdi.git
+[submodule "account_multi_pay"]
+	path = account_multi_pay
+	url = git@github.com:viernes/account_multi_pay.git
