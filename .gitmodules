@@ -13,3 +13,6 @@
 [submodule "account_multi_pay"]
 	path = account_multi_pay
 	url = git@github.com:viernes/account_multi_pay.git
+[submodule "addenda_koblenz"]
+	path = addenda_koblenz
+	url = git@gitlab.com:xmarts/xmarts-apps/addenda_koblenz.git
