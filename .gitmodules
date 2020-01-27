@@ -10,3 +10,8 @@
 [submodule "remove_invoice_cfdi"]
 	path = remove_invoice_cfdi
 	url = git@gitlab.com:xmarts/xmarts-apps/remove_invoice_cfdi.git
+
+[submodule "xmarts/no_negative_stock_12"]
+	path = xmarts/no_negative_stock_12
+	url = git@github.com:xmarts/no_negative_stock_12.git
+	branch = master
