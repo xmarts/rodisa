@@ -16,3 +16,6 @@
 [submodule "addenda_koblenz"]
 	path = addenda_koblenz
 	url = git@gitlab.com:xmarts/xmarts-apps/addenda_koblenz.git
+[submodule "no_negative_stock_12"]
+	path = no_negative_stock_12
+	url = git@github.com:xmarts/no_negative_stock_12.git
