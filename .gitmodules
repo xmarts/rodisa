@@ -21,3 +21,6 @@
 [submodule "account_multi_pay"]
 	path = account_multi_pay
 	url = git@github.com:viernes/account_multi_pay.git
+[submodule "remision_lala"]
+	path = remision_lala
+	url = git@gitlab.com:xmarts/xmarts-apps/remision_lala.git
