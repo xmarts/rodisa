@@ -22,3 +22,6 @@
 [submodule "remision_lala"]
 	path = remision_lala
 	url = git@gitlab.com:xmarts/xmarts-apps/remision_lala.git
+[submodule "xmarts_financial_factor"]
+	path = xmarts_financial_factor
+	url = git@gitlab.com:xmarts/xmarts-apps/xmarts_financial_factor.git
