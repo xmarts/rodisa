@@ -25,3 +25,8 @@
 [submodule "xmarts_financial_factor"]
 	path = xmarts_financial_factor
 	url = git@gitlab.com:xmarts/xmarts-apps/xmarts_financial_factor.git
+
+[submodule "OCA/reporting-engine"]
+	path = OCA/reporting-engine
+	url = git@github.com:OCA/reporting-engine.git
+	branch = 13.0
