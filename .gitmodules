@@ -30,3 +30,8 @@
 	path = xmarts/account-dynamic-reports
 	url = git@github.com:xmarts/account-dynamic-reports.git
 	branch = 13.0
+
+[submodule "xmarts/account-financial-reporting"]
+	path = xmarts/account-financial-reporting
+	url = git@github.com:xmarts/account-financial-reporting.git
+	branch = 13.0
