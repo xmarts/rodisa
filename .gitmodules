@@ -25,3 +25,8 @@
 [submodule "xmarts_financial_factor"]
 	path = xmarts_financial_factor
 	url = git@gitlab.com:xmarts/xmarts-apps/xmarts_financial_factor.git
+
+[submodule "xmarts/account-dynamic-reports"]
+	path = xmarts/account-dynamic-reports
+	url = git@github.com:xmarts/account-dynamic-reports.git
+	branch = 13.0
